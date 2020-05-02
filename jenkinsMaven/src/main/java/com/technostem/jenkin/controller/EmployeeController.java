@@ -9,6 +9,7 @@ public class EmployeeController {
 
 	@GetMapping("/employee/{name}")
 	public String hello(@PathVariable("name") String name) {
+		Product product=new Product();
 		return "Hello   " + name;
 
 	}

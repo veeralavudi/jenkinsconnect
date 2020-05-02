@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.technostem.jenkin</groupId>
-	<artifactId>jenkinwithmaven</artifactId>
+	<artifactId>jenkinmavenproj</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>jenkinsMaven</name>
 	<description>jenkinwithmaven</description>
